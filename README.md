@@ -24,10 +24,9 @@ To run the API service locally, follow these steps:
 
 3. Open a terminal or command prompt and navigate to the root directory of the cloned repository.
 
-4. Run the following command to start the API service:
+4. Run the following command to start the API service: 
 
-go run main.go
-
+```` go run main.go ````
 
 5. Once the service is running, open your web browser and go to the following URL to search for projects containing a specific name (e.g., "json"):
 
